@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExtendedAndroidTextComponentOptionsView">
+        <attr name="label_style" format="reference" />
+        <attr name="button_style" format="reference" />
+    </declare-styleable>
+</resources>
